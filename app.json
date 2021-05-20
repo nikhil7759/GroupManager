@@ -1,6 +1,6 @@
 
 {
-  "name": "GroupManager Bot",
+  "name": "Bulla",
   "description": "Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/xditya/GroupManager",
+  "repository": "https://github.com/nikhil7759/GroupManager",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
